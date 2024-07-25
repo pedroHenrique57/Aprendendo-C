@@ -1,3 +1,3 @@
-C:/Users/Pedro/CLionProjects/AprendendoC/cmake-build-debug/CMakeFiles/AprendendoC.dir
-C:/Users/Pedro/CLionProjects/AprendendoC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Pedro/CLionProjects/AprendendoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+R:/DevProj/Aprendendo-C/AprendendoC/cmake-build-debug/CMakeFiles/AprendendoC.dir
+R:/DevProj/Aprendendo-C/AprendendoC/cmake-build-debug/CMakeFiles/edit_cache.dir
+R:/DevProj/Aprendendo-C/AprendendoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

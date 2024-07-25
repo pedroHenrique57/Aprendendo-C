@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Pedro/CLionProjects/AprendendoC/cmake-build-debug",
-		"source" : "C:/Users/Pedro/CLionProjects/AprendendoC"
+		"build" : "R:/DevProj/Aprendendo-C/AprendendoC/cmake-build-debug",
+		"source" : "R:/DevProj/Aprendendo-C/AprendendoC"
 	},
 	"version" : 
 	{
